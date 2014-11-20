@@ -1,0 +1,26 @@
+Final Grade: 116/100
+
+"30/30: Problem 1
+  5/5: Diagram contains all necessary components, and relationships make sense.
+  10/10: Algorithm flowchart/pseudocode is clear, and accomplishes the task correctly.
+  10/10: Writeup explains the approach well and addresses all concerns stated in the assignment.
+  5/5: Presentation and writing quality. Diagrams and pseudocode are clear, and written explanation takes no more than one page."	
+
+"30/30: Problem 2
+   15/15: Your results on 2a make sense, and support your comments.
+   15/15: Your calculation and comments are correct.
+
+    Comments:"	
+
+"15/15: Problem 3
+15/15: Your calculation is correct
+20/20:Your extra credit analysis is correct
+
+Comments:"	
+
+"21/25: Problem 4
+  13/15: Your calculations are correct, and at least one query uses independent terms
+  8/10:Your calculations are correct, and at least one query uses independent terms
+
+  
+  Comments: At least one query should have used independent words."
